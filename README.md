@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="The Phage hero running through Rust City" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=9966FF&center=true&vCenter=true&width=720&height=50&lines=Indie+game+developer+(Godot+%2F+GDScript);Pixel+artist+%2B+composer;Applied+Math+%26+Scientific+ML+%40+University+of+Waterloo;Phage%3A+450K%2B+devlog+views+on+Bilibili" alt="Indie game developer · pixel artist · composer · Applied Math @ UWaterloo" />
+  <img src="assets/banner.svg" width="100%" alt="Jiamu (Aaron) Shangguan: the Phage hero types the intro" />
 </p>
 
 <img align="right" src="assets/hero-idle.svg" width="120" alt="The Phage hero, idle" />
