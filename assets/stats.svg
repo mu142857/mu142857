@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="112" viewBox="0 0 896 112">
+  <title>7,000+ Bilibili followers · #53 in Audio at GMTK Game Jam 2026 · 1st place at Claude Create-A-Thon</title>
+  <g font-family="'Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace">
+    <rect x="0.5" y="0.5" width="287.0" height="111" rx="8" fill="none" stroke="#8b949e" stroke-opacity="0.45"/>
+    <text x="20.0" y="46" font-size="28" font-weight="700" fill="#9966ff">7,000+</text>
+    <text x="20.0" y="74" font-size="14" font-weight="600" fill="#8b949e">Bilibili followers</text>
+    <text x="20.0" y="94" font-size="13" fill="#8b949e" fill-opacity="0.8">Phage devlog series</text>
+    <rect x="304.5" y="0.5" width="287.0" height="111" rx="8" fill="none" stroke="#8b949e" stroke-opacity="0.45"/>
+    <text x="324.0" y="46" font-size="28" font-weight="700" fill="#9966ff">#53 Audio</text>
+    <text x="324.0" y="74" font-size="14" font-weight="600" fill="#8b949e">GMTK Game Jam 2026</text>
+    <text x="324.0" y="94" font-size="13" fill="#8b949e" fill-opacity="0.8">of ~10,500 entries</text>
+    <rect x="608.5" y="0.5" width="287.0" height="111" rx="8" fill="none" stroke="#8b949e" stroke-opacity="0.45"/>
+    <text x="628.0" y="46" font-size="28" font-weight="700" fill="#9966ff">1st place</text>
+    <text x="628.0" y="74" font-size="14" font-weight="600" fill="#8b949e">Claude Create-A-Thon</text>
+    <text x="628.0" y="94" font-size="13" fill="#8b949e" fill-opacity="0.8">data-viz track, 30 teams</text>
+  </g>
+</svg>
